@@ -9,7 +9,7 @@ basic star pattern code in java
 5. output will be visible in the console 
 
 # using command line
-Open a command prompt window and go to the directory where you saved the java program (**pattern1.java**). Assume it's **C:\**.
+Open a command prompt window and go to the directory where you saved the java program (**pattern1.java**). Assume it's C:\.
 
 Type '**javac pattern1.java**' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
 
