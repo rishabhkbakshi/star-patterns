@@ -16,3 +16,6 @@ Type '**javac pattern1.java**' and press enter to compile your code. If there ar
 Now, type ' **java pattern1** ' to run your program.
 
 You will be able to see the result printed on the window.
+
+#Reference Site 
+https://javainterviewpoint.com/star-pattern-programs-in-java/ (This site I used to know all the * patterns).
