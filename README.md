@@ -1,4 +1,4 @@
-# starpatterns
+# star-patterns
 basic star pattern code in java
 
 # how to run
